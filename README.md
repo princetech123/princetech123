@@ -21,7 +21,7 @@
 - 🧠 Fascinated by **how data works** — and how it can be used to *understand, predict, and influence* the world
 - 🔭 Currently building projects that mix **AI + data-driven thinking**
 - 🌱 Learning something new in tech every single day
-- 💬 Believe: *"Data is the key to become king — one who knows to use data can influence the world."*
+- 💬 Believe: *"Be at Peace."*
 - ⚡ Fun fact: I see every dataset as a story waiting to be told
 
 ---
