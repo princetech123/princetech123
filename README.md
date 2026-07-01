@@ -69,4 +69,4 @@
   </a>
 </p>
 
-<p align="center"><i>"Data is the key to become king 👑 — one who knows to use data can influence the world."</i></p>
+<p align="center"><i>"Be at Peace."</i></p>
